@@ -2,9 +2,6 @@
 
 **kakikata** (書き方) is Japanese for *"a way of writing"*. This project started as a simple blog, but it's really a JavaScript learning journey disguised as a web project. One day, it might also become a static site generator. But first, it's a blog.
 
-![BG3RB](https://github.com/user-attachments/assets/f51d27d6-9c9e-4cd7-a2f2-2f77da814ce4)
-
-
 ## Live Demo
 
 [Link to the live blog - when deployed]
