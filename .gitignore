@@ -1,0 +1,7 @@
+#project specifc stuff
+favicon/
+template.*
+*.projectile
+*.env
+
+
