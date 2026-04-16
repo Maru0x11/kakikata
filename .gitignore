@@ -1,7 +1,11 @@
 #project specifc stuff
-favicon/
+blog/favicon/
 template.*
 *.projectile
 *.env
+*.org
+
+#html blog files
+blog/dist
 
 
