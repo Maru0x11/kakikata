@@ -32,7 +32,7 @@ const btnIcon = themeToggeler.querySelector(".material-symbols-outlined");
 
 function toggleTheme(){
 
-  const currentTheme = localStorage.getItem("theme") ?? "dark";
+  const currentTheme = localStorage.getItem("theme") || "dark";
   const newTheme = currentTheme === "dark" ? "light" : "dark";
   const newIcon = newTheme === "dark" ? "dark_mode" : "light_mode";
 
