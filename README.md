@@ -1,16 +1,15 @@
 # Kakikata
 
-**kakikata** (書き方) is Japanese for *"a way of writing"*. This project started as a simple blog, but it's really a JavaScript learning journey disguised as a web project. One day, it might also become a static site generator. But first, it's a blog.
+**kakikata** (書き方) is Japanese for *"a way of writing"*. I started this project cause I wanted to build a blog with simple html/css/js, but the real reason behind it is that I wanted to experiment with a real project using js, so I decided to build a simple static site gnerator that parses md posts and convert them into html and who knows maybe I'll extend the proejct further in the future. 
 
 ## Live Demo
 
 [Link to the live blog - when deployed]
 
-## About this Project
 
-I'm Maru, a sophomore CS student who wanted to learn web development. The honest truth? I didn't want to just build another throwaway project. So instead, I decided to build:
+## Technology used:
 
-1. **A real blog** where I actually write about programming, tech, music, and the messy reality of learning to code.
-2. **Eventually, a static site generator**  because why not turn one project into two learning experiences?
+sofar I used Html/css and vanilla js for frontend /
+as for backend - aka - the static site generator I will be using nodejs using ts.
 
-This blog exists to share the *actual* journey: the confusion, the circular debugging, the "am I stupid?" moments. Turns out, 80% of new learners feel that way. You're not alone.
+

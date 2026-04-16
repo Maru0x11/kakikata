@@ -9,3 +9,5 @@ template.*
 blog/dist
 
 
+#vercel and / or any ts node config files
+vercel.json
