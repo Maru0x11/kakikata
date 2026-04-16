@@ -4,12 +4,11 @@
 
 ## Live Demo
 
-[Link to the live blog - when deployed]
-
+https://kakikata.vercel.app/
 
 ## Technology used:
 
-sofar I used Html/css and vanilla js for frontend /
+sofar I used Html/css and vanilla js for frontend <br>
 as for backend - aka - the static site generator I will be using nodejs using ts.
 
 
