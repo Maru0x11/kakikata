@@ -4,6 +4,8 @@ template.*
 *.projectile
 *.env
 *.org
+test.*
+
 
 #html blog files
 blog/dist
@@ -11,3 +13,7 @@ blog/dist
 
 #vercel and / or any ts node config files
 vercel.json
+posts.json
+package-lock.json
+/ssg/node_modules
+/ssg/dist
