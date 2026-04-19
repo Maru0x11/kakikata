@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "ssg",
   "version": "1.0.0",
   "description": "",
@@ -12,5 +13,8 @@
   "devDependencies": {
     "@types/node": "^25.6.0",
     "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3"
   }
 }
