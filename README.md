@@ -1,14 +1,22 @@
-# Kakikata
+# Kakikata 
 
-**kakikata** (書き方) is Japanese for *"a way of writing"*. I started this project cause I wanted to build a blog with simple html/css/js, but the real reason behind it is that I wanted to experiment with a real project using js, so I decided to build a simple static site gnerator that parses md posts and convert them into html and who knows maybe I'll extend the proejct further in the future. 
+## Kakikata (書き方) is Japanese for "a way of writing". 
 
-## Live Demo
+I started this project to build a personal blog using simple HTML/CSS/JS, but the real goal was to experiment with a real project using JavaScript. To do this, I decided to build a custom Static Site Generator (SSG) in TypeScript that parses Markdown posts and converts them into HTML. 
+## Live Demo 
 
-https://kakikata.vercel.app/
+https://kakikata.vercel.app/  
 
-## Technology used:
+## Technology Used 
 
-sofar I used Html/css and vanilla js for frontend <br>
-as for backend - aka - the static site generator I will be using nodejs using ts.
+Frontend: 
 
+      Framework: React (Server-Side Rendered).
+      Styling: CSS3 with CSS Variables (Theming).
+      Architecture: Component-based (Layout, Nav, Footer) generated statically by the SSG.
+     
 
+Backend (The SSG): 
+
+     Runtime: Node.js.
+     Language: TypeScript.

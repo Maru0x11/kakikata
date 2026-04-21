@@ -2,7 +2,7 @@
 import { PostMeta ,Post } from './types.js';
 import matter from 'gray-matter';
 import fs from 'fs/promises';
-import path from 'path'
+import path from 'path';
 
 export async function parseFile(filePath:string) : Promise<Post>{
 
@@ -30,7 +30,6 @@ export async function parseFile(filePath:string) : Promise<Post>{
  }
 
   catch(err) {
-    console.error("Error: cannot proceed with parsing this file, ", err);
     throw err; // caller catches the error
   }
 

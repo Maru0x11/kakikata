@@ -10,7 +10,8 @@
     "moduleResolution": "nodenext",          /* Handles 'gray-matter' imports smoothly */
     "esModuleInterop": true,             /* Allows import of CommonJS modules */
     "resolveJsonModule": true,
-
+    "jsx": "react-jsx", 
+    "jsxImportSource": "react"
     /* Emit */
     "outDir": "./dist",
     "rootDir": "./src",
